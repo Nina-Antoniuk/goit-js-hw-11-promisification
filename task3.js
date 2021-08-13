@@ -41,4 +41,3 @@ makeTransaction({ id: 73, amount: 100 })
   .catch(logError);
 
 
-
